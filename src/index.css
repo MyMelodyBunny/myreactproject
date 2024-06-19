@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Poll {
+  margin-top: 20px;
+}
+
+.Poll .form-check {
+  margin-bottom: 10px;
+}
